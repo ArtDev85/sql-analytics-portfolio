@@ -1,1 +1,1 @@
-CREATE DATABASE rockbuster
+CREATE DATABASE rockbuster;

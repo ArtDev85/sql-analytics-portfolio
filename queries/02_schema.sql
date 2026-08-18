@@ -1,1 +1,1 @@
-CREATE SCHEMA analytics
+CREATE SCHEMA analytics;
